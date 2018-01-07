@@ -1,0 +1,23 @@
+{
+  "name": "file-transfer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunguma-vishnu/File-Transfer-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunguma-vishnu/File-Transfer-Node/issues"
+  },
+  "homepage": "https://github.com/kunguma-vishnu/File-Transfer-Node#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
